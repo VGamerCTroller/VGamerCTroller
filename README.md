@@ -34,17 +34,19 @@
 
 ## Hi there 👋
 
-I am an undergraduate student in Software Engineering at Nanjing University. My abilities are limited, so please bear with me.  
+I am an undergraduate student in Software Engineering at Nanjing University. My abilities are limited, so please bear with me.
+
 You can reach me via email: [231250084@smail.nju.edu.cn](mailto:231250084@smail.nju.edu.cn)
 
 ## Recent Updates
-I will be a teaching assistant for the "PA on Introduction to Computer Systems (ICS-PA)" course in the Software Institute (2026 Fall). Welcome to enroll in the course!  
+I will be a teaching assistant for the "Programming Assignment on Introduction to Computer Systems (ICS-PA)" course in the Software Institute (2026 Fall). Welcome to enroll in the course!
+
 I have written a [study guide](https://smewin.github.io/cs/ics_riscv/) for the "Introduction to Computer Systems" course, and I welcome any feedback.
 
 ## Past Awards
 - Grand Prize in the Senior Group, Nanjing University Software Institute 2025 BingoC Code Competition
 - Second Prize in the Interactive Group, Nanjing University 2024 EL Programming Competition  
-  ![Award Project Display](assets/images/award-project.png) (Thank you for liking our work!)
+![Award Project Display](assets/images/award-project.png) (Thank you for liking our work!)
 - Third Prize, Nanjing University Software Institute 2023 Code Touchdown Competition
 - People's Scholarship
 
