@@ -1,0 +1,49 @@
+p { text-indent: 2em; }
+
+body {
+    color: #333;
+    font-family: 'Microsoft YaHei', sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+
+    color: black;
+    font-weight: bold;
+    border-bottom: none; /* 去除标题下方的下划线 */
+
+
+}
+
+pre, code {
+    font-family: 'JetBrains Mono', monospace !important;
+    color: black !important;    /* 可能被自带样式表覆盖 */
+
+    background-color: #f4f7f9;
+
+    border: none;
+
+}
+
+code {
+    border-radius: 4px;
+}
+
+pre {
+    border-radius: 10px;
+}
+
+
+hr {
+    border: none; /* 去除默认边框 */
+    border-top: 1px solid #ccc; /* 设置上边框为 1px 灰色 */
+}
+
+blockquote {
+    margin: 1.5em 0;         /* 控制块级间距 */
+    padding: 1em;      /* 控制内容与边框间距 */
+    line-height: 1.6;        /* 提升行高增强可读性 */
+    background-color: #f4f7f9 !important;  /* 淡蓝色背景 */
+    border-left: 5px solid #a6bae1;        /* 深蓝色左侧边框 */
+    border-radius: 4px;                    /* 圆角效果 */
+}
