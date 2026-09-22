@@ -31,7 +31,7 @@
 
 ### 高中—大学衔接中的文化转换与个人成长
 
-我关心的是，从高中到大学不只是“应试教育到素质教育”，也不只是“从轨道到旷野”。它更像学生被放入一种迥异的文化环境：学生本身没有错，只是被卷入新的场域，需要重新适应。有人如鱼得水，有人难以适应，也有人离开校园，走向实习与就业。由此，我也倾向于把个人成长理解为两部分：核心能力的提升，以及对外在文化的适应。这样或许可以避免把大学说成“天堂”，也避免把大学与高中简单分为高下。
+我关心的是，从高中到大学不是“应试教育到素质教育”，也不是“从轨道到旷野”。它更像学生被放入一种迥异的文化环境：学生本身没有错，只是被卷入新的迷宫场域，需要重新适应。有人如鱼得水，有人难以适应，也有人离开校园，走向实习与就业。由此，我也倾向于把个人成长理解为两部分：核心能力的提升，以及对外在文化的适应。这样或许可以避免把大学说成“天堂”，也避免把大学与高中简单分为高下。
 
 ### 陌生场景中的文化、知识与能力：从脱节到重连
 
@@ -39,7 +39,7 @@
 
 ### 跨学科理解与个人社会心理认知
 
-我喜欢用不同学科的视角理解同一事物，并借此形成自己的认知。比如，用美国 1960 年代的大学生来理解当代中国大学生；或对“爱”同时进行进化生物学、心理学、社会学、历史学、地球与行星演化史、哲学等层面的分析，使一个概念变得更立体。由于这些概念与人的社会行为密切相关，这种理解也会反过来帮助我理解自己的心理活动，以及自己与社会的关系。
+我喜欢用不同学科的视角理解同一事物，并借此形成自己的认知。比如，用美国 1960 年代的大学生来辅助理解当代中国大学生；或对同一个概念如“爱”同时进行进化生物学、心理学、社会学、历史学、地球与行星演化史、哲学等层面的分析，使一个概念变得更立体。由于这些概念与人的社会行为密切相关，这种理解也会反过来帮助我理解人们的心理活动，以及个人与社会的关系。
 
 ---
 
@@ -70,7 +70,7 @@ Coding is work; hobbies are life. The following are not my major, but questions 
 
 ### Cultural Transition and Personal Growth in the High School–University Transition
 
-I see the move from high school to university not simply as “exam-oriented education to quality-oriented education,” nor as a shift from a fixed track to open exploration. It is more like being placed into a very different cultural environment: students are not at fault; they are simply pulled into a new field and have to adapt. Some thrive, some struggle to fit in, and some leave campus for internships or work. From this, I tend to understand personal growth as two parts: building core abilities and adapting to an external culture. This may help avoid calling university “paradise,” or simply ranking university above high school.
+I see the move from high school to university not as “exam-oriented education to quality-oriented education,” nor as a shift from a fixed track to open exploration. It is more like being placed into a very different cultural environment: students are not at fault; they are simply pulled into a new, maze-like field and have to adapt. Some thrive, some struggle to fit in, and some leave campus for internships or work. From this, I tend to understand personal growth as two parts: building core abilities and adapting to an external culture. This may help avoid calling university “paradise,” or simply ranking university above high school.
 
 ### Culture, Knowledge, and Competence in Unfamiliar Settings: From Disjunction to Reconnection
 
@@ -78,7 +78,7 @@ Take open-source communities. You may be technically capable, but if you are unf
 
 ### Interdisciplinary Understanding and Personal Socio-Psychological Cognition
 
-I enjoy understanding the same thing through different disciplinary lenses and using that process to shape my own cognition. For example, I use American college students in the 1960s to understand Chinese college students today; or I analyze “love” through evolutionary biology, psychology, sociology, history, Earth and planetary evolution, and philosophy, so that the concept becomes more three-dimensional. Since these concepts are closely tied to how people behave in society, this also helps me understand my own psychological activity and my cognition of society.
+I enjoy understanding the same thing through different disciplinary lenses and using that process to shape my own cognition. For example, I use American college students in the 1960s as a lens to help understand Chinese college students today; or I take a concept like “love” and analyze it simultaneously through evolutionary biology, psychology, sociology, history, Earth and planetary evolution, and philosophy, so that the concept becomes more three-dimensional. Since these concepts are closely tied to how people behave in society, this understanding also helps me understand people’s psychological activity and the relationship between the individual and society.
 
 
 <!--
