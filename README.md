@@ -6,7 +6,7 @@
 
 我是南京大学软件工程专业的一名本科学生。能力有限，请多担待。
 
-可以通过邮件联系我：[231250084@smail.nju.edu.cn](mailto:231250084@smail.nju.edu.cn)
+可以通过邮件联系我：[xieqh@smail.nju.edu.cn](mailto:xieqh@smail.nju.edu.cn)
 
 ## 最近动态
 
@@ -49,7 +49,7 @@
 
 I am an undergraduate student in Software Engineering at Nanjing University. My abilities are limited, so please bear with me.
 
-You can reach me via email: [231250084@smail.nju.edu.cn](mailto:231250084@smail.nju.edu.cn)
+You can reach me via email: [xieqh@smail.nju.edu.cn](mailto:xieqh@smail.nju.edu.cn)
 
 ## Recent Updates
 I will be a teaching assistant for the "Programming Assignment on Introduction to Computer Systems (ICS-PA)" course in the Software Institute (2026 Fall). Welcome to enroll in the course!
